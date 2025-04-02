@@ -14,7 +14,7 @@ fun main() {
     // 타입 추론
     val languageName = "Kotlin"
     val upperCaseName = languageName.uppercase()
-
+    println(upperCaseName)
     // Fails to compile
-    languageName.inc() // Error
+//    languageName.inc() // Error
 }
