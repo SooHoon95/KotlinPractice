@@ -1,0 +1,4 @@
+package ingerfaces
+
+interface Interfaces {
+}
