@@ -47,5 +47,5 @@ fun stringMapper(str: String, mapper: (String) -> Int): Int {
 }
 // 사용
 class FunctionTest() {
-stringMapper("Android", { input -> input.length })
+//stringMapper("Android", { input -> input.length })
 }
